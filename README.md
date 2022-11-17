@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm an engineering student based in Paris
 
+[My gists](https://gist.github.com/hadouin)
+
 ![Hadouin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadouin&show_icons=true&hide_border=true&title_color=82aaff&text_color=eeffff&icon_color=ff7038&bg_color=45,000010,0a0a1f)  
 
 
