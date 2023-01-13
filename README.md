@@ -5,6 +5,7 @@ I'm an engineering student based in Paris
 
 ![Hadouin's GitHub stats](https://github-readme-stats-hadouin.vercel.app/api?username=hadouin&count_private=true&show_icons=true&hide_border=true&title_color=82aaff&text_color=eeffff&icon_color=ff7038&bg_color=45,000010,0a0a1f)  
 
+[![Hadouin's Top Langs](https://github-readme-stats-hadouin.vercel.app/api/top-langs/?username=hadouin&layout=compact&hide_border=true&title_color=82aaff&text_color=eeffff&icon_color=ff7038&bg_color=45,000010,0a0a1f)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hadouin/hadouin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
